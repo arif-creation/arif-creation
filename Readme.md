@@ -17,9 +17,11 @@ I'm a **Student** and a content creator on YouTube. I run a channel called **[@H
 - **Voice Generation**: Eleven Labs
 - **AI-Generated Content**: ChatGPT, DeepAI, InVideo, canva, deepseek
 - **Basic SEO**: Currently learning SEO techniques to better optimize my videos and content.
+- **programming**:Currently learning on sololearn, programing language like c , zava and learning html
 
 ## 📫 How to Reach Me:
 - **Email**: [noormdhachan@gmail.com](mailto:noormdhachan@gmail.com)
 - **YouTube**: [Hidayah For Ummah](https://www.youtube.com/@HidayahforUmmah)
+- **whatsapp**: coming soon
 Feel free to reach out to me for collaborations or any questions. Thanks for checking out my profile!
 
