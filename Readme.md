@@ -9,8 +9,7 @@ I'm a **Student** and a content creator on YouTube. I run a channel called **[@H
   
 ## 🚀 Featured Projects:
 - **[my channel](https://www.youtube.com/@HidayahforUmmah)**: My YouTube channel where I create content and share information on various topics.
-- **my portfolio website**:
-- **
+- **[channel website](https://sites.google.com/view/HIDAYAHFORUMMAH)**
 
 ## 🔧 Tools & Skills:
 - **Video Editing**: CapCut
