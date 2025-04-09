@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Hasan Noor 👋
 
-I'm a **Student** and a content creator on YouTube. I run a channel called **[@HidayahForumMah](https://www.youtube.com/channel/UC2L9EItlFqv1zDx6FtmjZOQ)**, where I share videos on various topics. I enjoy experimenting with content creation and am always looking for new ways to improve my skills and deliver value to my audience.
+I'm a **Student** and a content creator on YouTube. I run a channel called **[@HidayahForummah](https://www.youtube.com/@HidayahforUmmah)**, where I share videos on various topics. I enjoy experimenting with content creation and am always looking for new ways to improve my skills and deliver value to my audience.
 
 ## 💻 What I Do:
 - **Content Creation**: I create videos using various online tools like **Eleven Labs** for voice generation, **DeepAI**, **InVideo**,  **ChatGPT** for generating images, videos, logos, and bannersand more ai like canva ,lumalab,gemini etc.
@@ -20,7 +20,6 @@ I'm a **Student** and a content creator on YouTube. I run a channel called **[@H
 
 ## 📫 How to Reach Me:
 - **Email**: [noormdhachan@gmail.com](mailto:noormdhachan@gmail.com)
-- **YouTube**: [Hidayah For Ummah]([[https://www.youtube.com/channel/UC2L9EItlFqv1zDx6FtmjZOQ]
-
+- **YouTube**: [Hidayah For Ummah](https://www.youtube.com/@HidayahforUmmah)
 Feel free to reach out to me for collaborations or any questions. Thanks for checking out my profile!
 
